@@ -10,7 +10,7 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on software projects working especially with server side technologies.
 - 📫 How to reach me: You can reach at me at wisdom-s@outlook.com.
   
-## What you should know about me
+## A little detail about me
 
 A Software Developer with at least than 2 years experience in the IT industry.
 I am eager to work on software projects on the web, cloud, and mobile and also develop production systems for enterprises worldwide.
