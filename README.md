@@ -12,7 +12,7 @@ Here are some ideas to get you started: -->
   
 ## A little detail about me
 
-A Software Developer with at least than 2 years experience in the IT industry.
+A Software Developer with 2 years worth of experience in the IT industry.
 I am eager to work on software projects on the web, cloud, and mobile and also develop production systems for enterprises worldwide.
 I'm also dedicated to enthusiastic and dynamic training as a means of nurturing a lifelong love of programming.
 ## I have some experience working with the following tech stacks.
