@@ -7,7 +7,7 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on SureCrib a housing application for students
 - 🌱 I’m currently learning the .NET tech stack (including Microsoft SQL Server database, REST, gRPC and GraphQL architectures.)
-- 👯 I’m looking to collaborate on software projects especially with backend technologies.
+- 👯 I’m looking to collaborate on software projects working especially with server side technologies.
 - 📫 How to reach me: You can reach at me at wisdom-s@outlook.com.
   
 ## What you should know about me
@@ -19,17 +19,16 @@ I'm also dedicated to enthusiastic and dynamic training as a means of nurturing 
 <p>
   <img src="JavaScript-logo.png" alt="JavaScript" width="80" height="80">
   <img src="react-logo2.png" alt="React" width="80" height="80">
-  <img src="material-logo.png" alt="React" width="80" height="80">
+  <img src="material-logo.png" alt="Material-UI" width="80" height="80">
   <img src="mongodb.png" alt="MongoDB" width="80" height="80">
 </p>
--Microsoft tools and technologies
 <p>
   <img src="c-sharp.png" alt="C#" width="80" height="80">
   <img src="net-logo.png" alt=".NET" width="80" height="80">
   <img src="sql-logo.png" alt="SQL Server" width="80" height="80">
 </p>
 
-## Education and Certification
+## Education and Certifications
 
 ## UiPath Certified Advanced RPA Developer
 Developing automation bots on the UiPath Platform
