@@ -16,15 +16,18 @@ A Software Developer with at least than 2 years experience in the IT industry.
 I am eager to work on software projects on the web, cloud, and mobile and also develop production systems for enterprises worldwide.
 I'm also dedicated to enthusiastic and dynamic training as a means of nurturing a lifelong love of programming.
 ## I have some experience working with the following tech stacks.
-<img src="JavaScript-logo.png" alt="JavaScript" width="100" height="100">
-<img src="react-logo.png" alt="React" width="100" height="100">
-<img src="material-logo.png" alt="React" width="100" height="100">
-<img src="mongodb.png" alt="MongoDB" width="100" height="100">
+<p align = "center">
+  <img src="JavaScript-logo.png" alt="JavaScript" width="80" height="80">
+  <img src="react-logo.png" alt="React" width="80" height="80">
+  <img src="material-logo.png" alt="React" width="80" height="80">
+  <img src="mongodb.png" alt="MongoDB" width="80" height="80">
+</p>
 -Microsoft tools and technologies
-<img src="c-sharp.png" alt="C#" width="100" height="100">
-<img src="net-logo.png" alt=".NET" width="100" height="100">
-<img src="sql-logo.png" alt="SQL Server" width="100" height="100">
-
+<p>
+  <img src="c-sharp.png" alt="C#" width="80" height="80">
+  <img src="net-logo.png" alt=".NET" width="80" height="80">
+  <img src="sql-logo.png" alt="SQL Server" width="80" height="80">
+</p>
 
 ## Education and Certification
 
