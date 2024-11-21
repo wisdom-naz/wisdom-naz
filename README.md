@@ -9,7 +9,7 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning the .NET tech stack (including Microsoft SQL Server database, REST, gRPC and GraphQL architectures.)
 - 🌱 I’m also learning the Go programming language.
 - 👯 I’m looking to collaborate on software projects working especially with server side technologies.
-- 📫 How to reach me: You can reach at me at wisdom-s@outlook.com.
+- 📫 How to reach me: You can reach me at wisdom-s@outlook.com.
   
 ## A little detail about me
 
